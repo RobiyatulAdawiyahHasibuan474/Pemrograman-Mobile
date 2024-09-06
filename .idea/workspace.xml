@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Whitespace.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespace.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add BlokdanKomentar .kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725589224098</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add BlokdanKomentar .kt">
+      <created>1725589517339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725589517339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +103,7 @@
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespace.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Whitespace.kt" />
+    <MESSAGE value="Add BlokdanKomentar .kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BlokdanKomentar .kt" />
   </component>
 </project>
