@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="push stater project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" afterDir="false" />
+    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Literal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespace.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +70,27 @@
       <option name="project" value="LOCAL" />
       <updated>1725283545397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add MainApp.kt">
+      <created>1725284054159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725284054159</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Literal.kt">
+      <created>1725284204603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725284204603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push stater project." />
-    <option name="LAST_COMMIT_MESSAGE" value="push stater project." />
+    <MESSAGE value="Add MainApp.kt" />
+    <MESSAGE value="Add Literal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Literal.kt" />
   </component>
 </project>
