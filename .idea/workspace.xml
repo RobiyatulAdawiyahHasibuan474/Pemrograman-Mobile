@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Representasi.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
-    </list>
+    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Character(Char).kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725720978775</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add KonversiEksplisit.kt">
+      <created>1725721429814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725721429814</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Character(Char).kt">
+      <created>1725722036318</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725722036318</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +184,8 @@
     <MESSAGE value="Add ConstantsLiteral.kt" />
     <MESSAGE value="Add UnderscoreDalamLiteral.kt" />
     <MESSAGE value="Add Representasi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
+    <MESSAGE value="Add KonversiEksplisit.kt" />
+    <MESSAGE value="Add Character(Char).kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Character(Char).kt" />
   </component>
 </project>
