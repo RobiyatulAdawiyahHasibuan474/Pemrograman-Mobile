@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add UnderscoreDalamLiteral.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnderscoreDalamLiteral.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/TipeDataBilBulat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataBilBulat.kt" afterDir="false" />
+    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Representasi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725720773788</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Representasi.kt">
+      <created>1725720978775</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725720978775</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +171,7 @@
     <MESSAGE value="Add TipeDataBilDecimal.kt" />
     <MESSAGE value="Add ConstantsLiteral.kt" />
     <MESSAGE value="Add UnderscoreDalamLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add UnderscoreDalamLiteral.kt" />
+    <MESSAGE value="Add Representasi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
   </component>
 </project>
