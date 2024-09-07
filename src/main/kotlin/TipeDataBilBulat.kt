@@ -2,8 +2,8 @@ fun main(args: Array<String>) {
     val minByte: Byte = -128
     val maxByte: Byte = 127
     val minShort: Short = -32768
-    val macShort: Short = 32767
-    val minIn: Int = -2147483648
+    val maxShort: Short = 32767
+    val minInt: Int = -2147483648
     val maxInt: Int = 2147483647
     val minLong: Long = -9223372036854775807
     val maxLong: Long =  9223372036854775807
