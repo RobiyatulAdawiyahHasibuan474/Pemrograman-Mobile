@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add Character(Char).kt" />
+    <list default="true" id="5c40eee8-7e81-4f67-a33c-ceb3c62abc77" name="Changes" comment="Add PenerapanKonversiEksplisitpadaChar.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725722036318</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add PenerapanKonversiEksplisitpadaChar.kt">
+      <created>1725722468638</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725722468638</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +193,7 @@
     <MESSAGE value="Add Representasi.kt" />
     <MESSAGE value="Add KonversiEksplisit.kt" />
     <MESSAGE value="Add Character(Char).kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Character(Char).kt" />
+    <MESSAGE value="Add PenerapanKonversiEksplisitpadaChar.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanKonversiEksplisitpadaChar.kt" />
   </component>
 </project>
