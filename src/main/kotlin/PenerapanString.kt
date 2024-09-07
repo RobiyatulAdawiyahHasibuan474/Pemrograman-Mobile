@@ -22,4 +22,8 @@ fun main(args: Array<String>) {
             consonantCount++
         }
     }
+
+    println("Vowels: $vowelCount")
+    println("Consonants: $consonantCount")
+    println("Other characters: ${s.length - (vowelCount + consonantCount)}")
 }
